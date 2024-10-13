@@ -34,9 +34,12 @@ const Hero = () => {
           My name is Arthur Wiryadinata
         </div>
         <div className='my-8'>
-          <a href="/" className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white'>
-            Download CV
-          </a>
+        <a 
+    href="/cv.pdf" 
+    download="ArthurWiryadinata_CV.pdf" 
+    className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white'>
+    Download CV
+  </a>
           <a href="#Contact" className='px-6 py-3 w-full rounded-xl mr-4 border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500 text-white hover:border-none'>
             Contact
           </a>

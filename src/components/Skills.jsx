@@ -6,6 +6,8 @@ import flutterPng from '../assets/flutter.png';
 import kotlinPng from '../assets/kotlin.png';
 import reactPng from '../assets/react.png';
 import tailPng from '../assets/tailwind.png';
+import Figma from '../assets/figma.png';
+import MySql from '../assets/mysql.png';
 
 const Skills = () => {
   return (
@@ -54,6 +56,18 @@ const Skills = () => {
       <div className="flex flex-col items-center m-4 w-[80px] md:w-[100px]">
         <img src={tailPng} alt="Tailwind" className="w-[60px] h-[60px] object-contain" />
         <p className="mt-2">Tailwind</p>
+      </div>
+
+      {/* Figma */}
+      <div className="flex flex-col items-center m-4 w-[80px] md:w-[100px]">
+        <img src={Figma} alt="Tailwind" className="w-[60px] h-[60px] object-contain" />
+        <p className="mt-2">Figma</p>
+      </div>
+
+      {/* MySql */}
+      <div className="flex flex-col items-center m-4 w-[80px] md:w-[100px]">
+        <img src={MySql} alt="Tailwind" className="w-[60px] h-[60px] object-contain" />
+        <p className="mt-2">MySQL</p>
       </div>
     </div>
   );
