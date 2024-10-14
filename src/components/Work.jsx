@@ -22,7 +22,7 @@ const Work = () => {
         <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
           <span className="text-2xl font-bold text-white tracking-wider">JollyCat</span>
           <div className="pt-8 text-center"></div>
-            <a href="/">
+            <a href="https://github.com/ArthurWiryadinata/JollyCatt">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 GitHub
               </button>
@@ -38,7 +38,7 @@ const Work = () => {
         <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
           <span className="text-2xl font-bold text-white tracking-wider">Willify</span>
           <div className="pt-8 text-center"></div>
-            <a href="/">
+            <a href="https://github.com/ArthurWiryadinata/Willify">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 GitHub
               </button>
@@ -54,7 +54,7 @@ const Work = () => {
         <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
           <span className="text-2xl font-bold text-white tracking-wider">The Night Shift</span>
           <div className="pt-8 text-center"></div>
-            <a href="/">
+            <a href="https://drive.google.com/drive/folders/1BoYGdEo9XCVtecRZtdqTRH9Hy6pp3szk?zx=g9mz613n33d">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 G-Drive
               </button>
@@ -70,7 +70,7 @@ const Work = () => {
         <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
           <span className="text-2xl font-bold text-white tracking-wider">Varchandise</span>
           <div className="pt-8 text-center"></div>
-            <a href="/">
+            <a href="https://www.figma.com/design/SL7RYhHtnMQP6atUwpNpWV/VArchandise?node-id=0-1&node-type=canvas&t=Tc39zIOsK31o4g3X-0">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 Figma
               </button>
@@ -86,7 +86,7 @@ const Work = () => {
         <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
           <span className="text-2xl font-bold text-white tracking-wider">Website Portfolio</span>
           <div className="pt-8 text-center"></div>
-            <a href="/">
+            <a href="https://github.com/ArthurWiryadinata/Portfolio">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                 GitHub
               </button>
